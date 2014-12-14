@@ -1,0 +1,5 @@
+D:\Мои документы\Visual Studio 2008\Projects\MergeSort\MergeSort\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2008\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+D:\Мои документы\Visual Studio 2008\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\Мои документы\Visual Studio 2008\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+D:\Мои документы\Visual Studio 2008\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
